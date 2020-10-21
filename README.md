@@ -21,9 +21,9 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 <br />
 ### Talk to me
 
-[<img align="left" alt="Christian | LinkedIn" width="22px" src="https://tinyurl.com/vsz667u" />][linkedin]
+[<img align="left" alt="Christian | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 
-[<img align="left" alt="Cool Chris Chen | Twitter" width="22px" src="https://tinyurl.com/y2lk4mmd" />][twitter]
+[<img align="left" alt="Cool Chris Chen | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 
 [<img align="left" alt="Christian | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 
