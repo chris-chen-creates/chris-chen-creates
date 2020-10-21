@@ -13,7 +13,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 - playing some video games 👾
 
 ### What I'm listening to 🎧
-[![Spotify](https://chris-chen-creates.vercel.app/api/spotify)](https://open.spotify.com/user/129222044)
+[![Spotify](https://https://novatorem.chris-chen-creates.vercel.app/api/spotify)](https://open.spotify.com/user/129222044)
 
 ### Check out some of my music:
 
