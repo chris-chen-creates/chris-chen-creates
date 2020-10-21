@@ -6,7 +6,7 @@
 
 I'm still new to the frontend scene, but I'm working hard everyday to learn more and build on my skills. ⌨️
 
-### When I'm not learning I'm:
+### When I'm not working on development stuff I'm:
 
 - writing new music 🎹
 - working on art 🎨 
