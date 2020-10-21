@@ -18,7 +18,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" alt="Chris Chen Audius" width="34px" src="https://audius.org/img/audius@2x.png">][audius]
 
-<br>
+<br />
 
 ### Talk to me
 
@@ -28,7 +28,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" alt="Christian | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 
-<br>
+<br />
 
 ### What I use
 
