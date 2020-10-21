@@ -18,7 +18,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 ### Check out some of my music
 
-[<img align="left" alt="Chris Chen Audius" width="34px" src="https://audius.org/img/audius@2x.png">][audius]
+[<img align="left" alt="Chris Chen Audius" width="40px" src="https://audius.org/img/audius@2x.png">][audius]
 
 <br />
 <br />
