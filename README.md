@@ -16,14 +16,14 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [![Spotify](https://spotify-now-playing-iota.vercel.app/api/spotify)](https://open.spotify.com/user/129222044)
 
-### Check out some of my music
+### Check out some of my music:
 
 [<img align="left" alt="Chris Chen Audius" width="40px" src="https://audius.org/img/audius@2x.png">][audius]
 
 <br />
 <br />
 
-### Talk to me
+### Talk to me:
 
 [<img align="left" alt="Christian | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 
@@ -33,7 +33,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 <br />
 
-### What I use
+### What I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
