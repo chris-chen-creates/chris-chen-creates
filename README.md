@@ -6,23 +6,28 @@
 
 I'm still new to the frontend scene, but I'm working hard everyday to learn more and build on my skills. ⌨️
 
-### When I'm not doing developer stuff I'm:
+### When I'm not learning I'm:
 
 - writing new music 🎹
 - working on art 🎨 
 - playing some video games 👾
 
-### Check out some of my music:
+### What I'm listening to 🎧
 
+### Check out some of my music
+
+[<img align="left" alt="Chris Chen Audius" width="34px" src="https://audius.org/img/audius@2x.png">][audius]
+
+<br />
 ### Talk to me
 
-[<img align="left" alt="Cool Chris Chen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Christian | LinkedIn" width="22px" src="https://tinyurl.com/vsz667u" />][linkedin]
 
-[<img align="left" alt="Christian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Cool Chris Chen | Twitter" width="22px" src="https://tinyurl.com/y2lk4mmd" />][twitter]
 
-[<img align="left" alt="Christian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Christian | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 
-<br>
+<br />
 
 ### What I use
 
@@ -44,6 +49,16 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
+[<img align="left" width="26" alt="Adobe Creative Cloud" src="https://tinyurl.com/yymhar7k" />][adobe]
+
+[<img align="left" width="26" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
+
+[<img align="left" width="26" alt="Blender" src="https://tinyurl.com/y25bt44h" />][blender]
+
+[<img align="left" width="26" alt="Ableton" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />][ableton]
+
+[<img align="left" width="26" alt="Notion" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][notion]
+
 [twitter]: https://twitter.com/CoolChrisChen
 [instagram]: https://www.instagram.com/__chris_chen/
 [linkedin]: https://www.linkedin.com/in/adamschristian/
@@ -56,3 +71,9 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://www.w3schools.com/whatis/whatis_cli.asp
+[adobe]: https://www.adobe.com/creativecloud.html
+[ableton]: https://www.ableton.com/
+[notion]: https://www.notion.so/
+[blender]: https://www.blender.org/
+[unity]: https://unity.com/
+[audius]: https://audius.co/chrispix
