@@ -18,7 +18,8 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" alt="Chris Chen Audius" width="34px" src="https://audius.org/img/audius@2x.png">][audius]
 
-<br />
+<br>
+
 ### Talk to me
 
 [<img align="left" alt="Christian | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
@@ -27,7 +28,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" alt="Christian | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 
-<br />
+<br>
 
 ### What I use
 
@@ -49,7 +50,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
-[<img align="left" width="26" alt="Adobe Creative Cloud" src="https://tinyurl.com/yymhar7k" />][adobe]
+[<img align="left" width="26" alt="Adobe Creative Cloud" src="https://www.flaticon.com/svg/static/icons/svg/732/732166.svg" />][adobe]
 
 [<img align="left" width="26" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
 
