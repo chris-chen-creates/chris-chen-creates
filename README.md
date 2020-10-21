@@ -21,6 +21,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 [<img align="left" alt="Chris Chen Audius" width="34px" src="https://audius.org/img/audius@2x.png">][audius]
 
 <br />
+<br />
 
 ### Talk to me
 
