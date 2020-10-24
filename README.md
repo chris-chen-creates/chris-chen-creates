@@ -57,7 +57,7 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 [<img align="left" width="26" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
 
-[<img align="left" width="26" alt="Blender" src="https://tinyurl.com/y25bt44h" />][blender]
+[<img align="left" width="26" alt="Blender" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blender/blender.png" />][blender]
 
 [<img align="left" width="26" alt="Ableton" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />][ableton]
 
