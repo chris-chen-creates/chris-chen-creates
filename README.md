@@ -11,6 +11,7 @@ You can learn a little bit more about me on my personal site
 [<img align="left" alt="Chris Chen Personal Site" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/1017/1017466.svg">][site]
 
 <br />
+<br />
 
 ### When I'm not working on development stuff I'm:
 
