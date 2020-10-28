@@ -70,7 +70,7 @@ You can learn a little bit more about me on my personal site
 
 [<img align="left" width="26" alt="Notion" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][notion]
 
-[twitter]: https://twitter.com/CoolChrisChen {:target="_blank"}
+[twitter]: https://twitter.com/CoolChrisChen
 [instagram]: https://www.instagram.com/__chris_chen/
 [linkedin]: https://www.linkedin.com/in/adamschristian/
 [vscode]: https://code.visualstudio.com/
