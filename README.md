@@ -6,6 +6,10 @@
 
 I'm still new to the frontend scene, but I'm working hard everyday to learn more and build on my skills. ⌨️
 
+You can learn a little bit more about me on my personal site
+
+[<img align="left" alt="Chris Chen Personal Site" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/1017/1017466.svg">][site]
+
 ### When I'm not working on development stuff I'm:
 
 - writing new music 🎹
@@ -81,3 +85,4 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 [blender]: https://www.blender.org/
 [unity]: https://unity.com/
 [audius]: https://audius.co/chrispix
+[site]: https://ccstl.media/
