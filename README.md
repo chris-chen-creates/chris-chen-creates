@@ -8,8 +8,9 @@ I'm still new to the frontend scene, but I'm working hard everyday to learn more
 
 You can learn a little bit more about me on my personal site
 
-[<img align="left" alt="Chris Chen Personal Site" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/1017/1017466.svg">][site]
+[<img align="left" alt="Chris Chen Personal Site" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/1017/1017466.svg">][site]
 
+<br />
 ### When I'm not working on development stuff I'm:
 
 - writing new music 🎹
