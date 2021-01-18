@@ -19,10 +19,6 @@ You can learn a little bit more about me on my personal site
 - working on art 🎨 
 - playing some video games 👾
 
-### What I'm listening to 🎧
-
-[![Spotify](https://spotify-now-playing-iota.vercel.app/api/spotify)](https://open.spotify.com/user/129222044)
-
 ### Check out some of my music:
 
 [<img align="left" alt="Chris Chen Audius" width="40px" src="https://audius.org/img/audius@2x.png">][audius]
