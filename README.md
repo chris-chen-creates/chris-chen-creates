@@ -2,9 +2,9 @@
 
 ## My name's Christian aka Chris Chen 🙃
 
-### I'm a multimedia artist and junior frontend developer 💻
+### I'm a multimedia artist and junior developer 💻
 
-I'm still new to the frontend scene, but I'm working hard everyday to learn more and build on my skills. ⌨️
+I'm still new to the development scene, but I'm working hard everyday to learn more and build on my skills. ⌨️
 
 You can learn a little bit more about me on my personal site
 
